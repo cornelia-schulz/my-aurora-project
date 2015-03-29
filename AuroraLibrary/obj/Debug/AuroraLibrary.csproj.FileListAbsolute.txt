@@ -1,0 +1,4 @@
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\AuroraLibrary\bin\Debug\AuroraLibrary.dll
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\AuroraLibrary\bin\Debug\AuroraLibrary.pdb
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\AuroraLibrary\obj\Debug\AuroraLibrary.dll
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\AuroraLibrary\obj\Debug\AuroraLibrary.pdb

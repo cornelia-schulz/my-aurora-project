@@ -1,0 +1,8 @@
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\MyAuroraProject\bin\Debug\MyAuroraProject.exe.config
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\MyAuroraProject\obj\Debug\MyAuroraProject.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\MyAuroraProject\bin\Debug\MyAuroraProject.exe
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\MyAuroraProject\bin\Debug\MyAuroraProject.pdb
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\MyAuroraProject\obj\Debug\MyAuroraProject.exe
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\MyAuroraProject\obj\Debug\MyAuroraProject.pdb
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\MyAuroraProject\bin\Debug\AuroraLibrary.dll
+c:\users\dave\documents\visual studio 2013\Projects\MyAuroraProject\MyAuroraProject\bin\Debug\AuroraLibrary.pdb
