@@ -4,6 +4,7 @@ using System.IO;
 using System.Collections.Generic;
 using System.Text;
 using System.Net.Mail;
+using System.Text.RegularExpressions;
 
 
 namespace MyAuroraProject
@@ -20,6 +21,11 @@ namespace MyAuroraProject
 
             //find forecast in the string
             string data = getInfoBetween(value, "3 day forecast", "Why do we use UTC?");
+
+            //use regex to remove html tags from the data string
+            string pattern = @"(</?[^>]*>)";
+            data = Regex.Replace(data, pattern, "");
+            Console.WriteLine(data);
 
             //send email
             var smtpClient = new SmtpClient("smtp.gmail.com", 587)
