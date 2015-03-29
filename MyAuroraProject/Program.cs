@@ -30,10 +30,10 @@ namespace MyAuroraProject
             //send email
             var smtpClient = new SmtpClient("smtp.gmail.com", 587)
             {
-                Credentials = new NetworkCredential("my.aurora.reminder@gmail.com", "1AuroraMy1"),
+                Credentials = new NetworkCredential("sender@gmail.com", "mypassword"),
                 EnableSsl = true
             };
-            smtpClient.Send("my.aurora.reminder@gmail.com", "cornelia_schulz@hotmail.com", "Aurora Forecast", data);
+            smtpClient.Send("sender@gmail.com", "recipient@email.com", "Aurora Forecast", data);
             Console.WriteLine("Email sent successfully.");
             Console.ReadLine();
 
